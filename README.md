@@ -1,4 +1,4 @@
-# Projeto Desenvolvimento para Dispositivos Móveis - NP2
+<div> align="center"> # Projeto Desenvolvimento para Dispositivos Móveis - NP2 <div>
 
 <div align="center">
 <h1> Projeto DDM - NP2</h1>
